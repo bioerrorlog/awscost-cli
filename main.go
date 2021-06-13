@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "awscost-cli/cmd"
+import "github.com/bioerrorlog/awscost-cli/cmd"
 
 func main() {
 	cmd.Execute()
